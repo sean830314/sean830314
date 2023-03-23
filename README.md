@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sean830314
-- 👀 I’m interested in backend and ai technology
-- 🌱 I’m currently learning visual document understanding
+- 👀 I’m interested in backend, data and ai technology
+- 🌱 I’m currently learning visual document understanding and named entity recognition domains
 
 <!---
 sean830314/sean830314 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
