@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 AI and Backend Developer
 ------------------------
 
-I have been learning to code for 5 years after graduating from master's degree in Computer Science, focusing on backend and AI fields
+I have been learning to code for 5 years after graduating from master's degree in Computer Science, focusing on backend and AI.
 
 * 🌍  I'm based in Taiwan
 * 🖥️  See my portfolio at [MyPortfolio](http://ekko771.github.io/)
